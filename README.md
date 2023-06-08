@@ -23,8 +23,8 @@ To perform normalization you need model from this link:
 
 ## Sample
 To run code write following lines in terminal:
-> `python3 summarization.py corpus.txt` -- to perform summarization
-> `python3 summarization.py -n corpus.txt` -- to add normalization before printing
+* `python3 summarization.py corpus.txt` -- to perform summarization
+* `python3 summarization.py -n corpus.txt` -- to add normalization before printing
 
 ## About me
 Yanina Khudina, currently enrolled in bachelor program "Fundamential and Computational Linguistics" at HSE University, Moscow.
