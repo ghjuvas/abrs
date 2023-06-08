@@ -1,0 +1,7 @@
+accelerate
+scikit-learn
+scipy
+sentencepiece
+stanza
+torch==1.13.1
+transformers
